@@ -1,6 +1,7 @@
 # Investment Banking Skills for Claude
 
-![Uploading ChatGPT Image May 18, 2026 at 06_56_06 PM.png…]()
+<img width="1672" height="941" alt="ChatGPT Image May 18, 2026 at 06_56_06 PM" src="https://github.com/user-attachments/assets/b7bab7aa-ccc5-4af7-be0d-51d5a7ee9ade" />
+
 
 **Bulge-bracket-grade deal craft, codified into ten skills you can run on demand.**
 

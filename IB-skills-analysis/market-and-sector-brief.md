@@ -9,7 +9,7 @@ description: Produce the sector context any pitch, IC memo, or CIM must rest on 
 
 Build a fact-based, banker-grade sector view that supports a transaction story — sizing, growth, structure, cycle position, deal activity, and capital markets backdrop — without padding it with generic industry color.
 
-The brief is the page a board reads to know whether the moment is right and whether the sector logic supports the price. It is not a strategy-consulting industry report; it is a banker's working document anchored in deal-relevant facts.
+The brief is the page a board reads to know whether the moment is right and whether the sector logic supports the price. It is not a tier-one consulting industry report; it is a banker's working document anchored in deal-relevant facts.
 
 ## Governing Principle
 
